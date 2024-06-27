@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ADOT GÓROM","TYLKO ADOT","ADOT TO NAJLEPSZA FRAKCJA"];
+const statusMessages = ["ERM WHAT THE SIGMA"];
 
 
 let currentIndex = 0;
